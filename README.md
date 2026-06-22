@@ -1,4 +1,3 @@
-# CS-405-Secure-Coding
 # CS 405: Secure Coding Portfolio
 **Author:** Caleb Sorell  
 **Course:** CS 405 - Southern New Hampshire University  
